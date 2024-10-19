@@ -1,5 +1,5 @@
 # Web Scraping Historical Stock
-This repository is a a part of the [Python Project for Data Science](https://www.coursera.org/learn/python-project-for-data-science) course on [coursera](https://www.coursera.org/). You can view my certificate by following this [link](https://www.coursera.org/account/accomplishments/certificate/DZ3GJLSMT86M).
+This repository is a a part of the [Python Project for Data Science](https://www.coursera.org/learn/python-project-for-data-science) course on [coursera](https://www.coursera.org/). You can view my certificate by following this [link](https://www.coursera.org/account/accomplishments/verify/DZ3GJLSMT86M).
 
 ### Methods Used
 - Web Scraping
